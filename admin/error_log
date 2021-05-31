@@ -1,0 +1,3 @@
+[20-Sep-2019 13:07:55 UTC] PHP Fatal error:  Trait 'App\Traits\databasequery' not found in /home/cpjobsmart/public_html/admin/app/Http/Controllers/CompanyController.php on line 15
+[20-Sep-2019 13:09:37 UTC] PHP Fatal error:  Trait 'App\Traits\databasequery' not found in /home/cpjobsmart/public_html/admin/app/Http/Controllers/CompanyController.php on line 15
+[31-Dec-2019 10:55:39 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/cpjobsmart/public_html/admin/app/Http/Controllers/JobController.php on line 3
